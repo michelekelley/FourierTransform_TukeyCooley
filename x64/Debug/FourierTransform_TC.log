@@ -1,11 +1,9 @@
 ﻿  FourierTransform_TC.cpp
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\FourierTransform_TC.cpp(26,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\FourierTransform_TC.cpp(56,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\FourierTransform_TC.cpp(86,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\FourierTransform_TC.cpp(114,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\FourierTransform_TC.cpp(115,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  DFT.cpp
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\DFT.cpp(10,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  readFile.cpp
+C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(57,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(87,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(114,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(115,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  check.cpp
+C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\check.cpp(8,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating Code...
-  FourierTransform_TC.vcxproj -> C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\x64\Debug\FourierTransform_TC.exe
+  FourierTransform_TC.vcxproj -> C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\x64\Debug\FourierTransform_TC.exe

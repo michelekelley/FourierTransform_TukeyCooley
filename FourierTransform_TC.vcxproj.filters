@@ -24,12 +24,18 @@
     <ClCompile Include="readFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="check.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DFT.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="readFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

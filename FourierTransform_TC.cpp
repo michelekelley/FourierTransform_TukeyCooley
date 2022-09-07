@@ -5,6 +5,7 @@
 #include<string>
 #include "readFile.h"
 #include "DFT.h"
+#include "check.h"
 
 typedef std::complex<double> complex64;
 
@@ -22,16 +23,16 @@ typedef std::complex<double> complex64;
 //    return signal;
 //    }
 
-std::vector<complex64> check(std::vector<complex64> signal) {
-    int N = signal.size();
-    if (N % 2 != 0) {
-        signal.push_back(complex64(0, 0));
-        return signal;
-    }
-    else {
-        return signal;
-    }
-}
+//std::vector<complex64> check(std::vector<complex64> signal) {
+//    int N = signal.size();
+//    if (N % 2 != 0) {
+//        signal.push_back((0, 0));
+//        return signal;
+//    }
+//    else {
+//        return signal;
+//    }
+//}
 
 //std::vector<std::complex<double>> DFT(std::vector<std::complex<double>> signal) {
 //    const double PI = acos(-1);
@@ -97,7 +98,6 @@ std::vector<std::complex<double>> recombine(std::vector<std::complex<double>> ft
 
     return ftsignal;
 }
-
 
 int main()
 {

@@ -130,9 +130,11 @@
     <ClCompile Include="FourierTransform_TC.cpp" />
     <ClCompile Include="DFT.cpp" />
     <ClCompile Include="readFile.cpp" />
+    <ClCompile Include="check.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DFT.h" />
+    <ClInclude Include="check.h" />
     <ClInclude Include="readFile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
