@@ -1,2 +1,0 @@
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TC\x64\Debug\FourierTransform_TC.exe
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\x64\Debug\FourierTransform_TC.exe

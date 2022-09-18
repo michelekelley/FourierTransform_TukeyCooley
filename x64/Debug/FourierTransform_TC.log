@@ -1,6 +1,0 @@
-﻿  FourierTransform_TC.cpp
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(57,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(87,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(114,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\FourierTransform_TC.cpp(115,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  FourierTransform_TC.vcxproj -> C:\Users\miche\OneDrive\Cpp_Practice\FourierTransform_TukeyCooley\x64\Debug\FourierTransform_TC.exe
